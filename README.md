@@ -41,14 +41,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a target="_blank" href="https://linkedin.com/in/abuzarmalik">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  <a href="https://linkedin.com">
+    <img src="https://skillicons.dev" width="40" alt="LinkedIn" />
   </a>
-
-  <a target="_blank" href="mailto:abuzarmalik185616@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  &nbsp;&nbsp;
+  <a href="mailto:abuzarmalik185616@gmail.com">
+    <img src="https://skillicons.dev" width="40" alt="Gmail" />
   </a>
 </p>
+
 
 ---
 
