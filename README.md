@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abuzarmalik">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:abuzarmalik185616@gmail.com">
